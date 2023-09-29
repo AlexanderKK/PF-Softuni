@@ -1,2 +1,2 @@
 # PF-Softuni
-Programming Fundamentals - Java
+Programming Fundamentals
